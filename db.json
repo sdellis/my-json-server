@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Lion",
+    "id": 1,
+    "description": "quidem molestiae enim"
+  },
+  {
+    "name": "Tiger",
+    "id": 2,
+    "description": "sunt qui excepturi placeat culpa"
+  },
+  {
+    "name": "Bear",
+    "id": 3,
+    "description": "omnis laborum odio"
+  },
+  {
+    "name": "Toad",
+    "id": 4,
+    "description": "non esse culpa molestiae omnis sed optio"
+  },
+  {
+    "name": "Bird",
+    "id": 5,
+    "description": "eaque aut omnis a"
+  },
+  {
+    "name": "Lizard",
+    "id": 6,
+    "description": "natus impedit quibusdam illo est"
+  }
+]
